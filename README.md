@@ -9,3 +9,27 @@
 ## What is this?
 
 Kebab-shell is a lightweight, robust shell enviroment, that you can execute basic JavaScript commands on. Kebab-shell is designed to be forked and contributed to, although it requires [cloudfare workers](https://workers.dev).
+
+
+## Quick Start
+
+Follow these steps to quickly set up kebab-shell:
+
+1. Create a new file called `client.py`
+2. Copy [this code](client/client.py), paste it into the file
+3. Make sure you have installed the [dependencies](#dependencies)
+4. Run this code:
+
+```python
+python3 client.py
+```
+
+If you have followed these steps correctly, kebab-shell, should atomatically load. If this does not happen, raise an issue on GitHub.
+
+
+## Dependencies
+
+Kebab-shell requires these dependencies:
+
+- Python3 (install latest version of python)
+- 
