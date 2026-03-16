@@ -8,4 +8,4 @@
 
 ## What is this?
 
-Kebab-shell is a lightweight, robust shell enviroment, that you can execute basic JavaScript commands on. Kebab-shell is designed to be forked and contributed to, although it requires cloudfare workers.
+Kebab-shell is a lightweight, robust shell enviroment, that you can execute basic JavaScript commands on. Kebab-shell is designed to be forked and contributed to, although it requires [cloudfare workers](https://workers.dev).
