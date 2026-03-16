@@ -1,8 +1,3 @@
-/**
- * Free Interactive JavaScript Shell
- * Uses Workers + KV (no Durable Objects = FREE)
- */
-
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
