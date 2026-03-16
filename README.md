@@ -32,4 +32,21 @@ If you have followed these steps correctly, kebab-shell, should atomatically loa
 Kebab-shell requires these dependencies:
 
 - Python3 (install latest version of python)
-- 
+- Socket
+- base64
+- SSL
+- os and sys compatibility
+- struct
+- urllib
+- select
+
+Most of these are built-in, and come with all python packages. Client preview:
+
+```python
+import socket, ssl, base64, os, struct, urllib.parse, select, sys
+```
+
+
+## License
+
+kebab-shell is under the [MIT License](LICENSE).
