@@ -40,7 +40,7 @@ Kebab-shell requires these dependencies:
 - urllib
 - select
 
-Most of these are built-in, and come with all python packages. Client preview:
+Most of these are built-in, and come with all python packages. Client import in `client.py`:
 
 ```python
 import socket, ssl, base64, os, struct, urllib.parse, select, sys
