@@ -14,7 +14,7 @@ export default {
         history: []
       };
 
-      server.send('🐚 JavaScript Shell (Free)\n');
+      server.send('JavaScript Shell\n');
       server.send('Type "help" for commands\n');
       server.send('> ');
 
